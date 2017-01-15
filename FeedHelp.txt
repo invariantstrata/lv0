@@ -1,0 +1,17 @@
+"-st"
+# basic sys start
+
+"k rate"
+# feedback rate, followed by "swp" (swap, for modulating frequencies)
+
+"lp"
+# low pass
+
+"is"
+# definition of variables
+
+"F"
+# feedback value
+
+"defi.in"
+# to be filled with value
