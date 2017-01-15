@@ -1,0 +1,11 @@
+FEED7
+
+    -st
+    k rate (4)
+    k rate swp,
+    k rate swp,
+    rate down (5! + sqrt(-%20))
+    end rate
+
+    lp rate is
+    F = (defi.in)

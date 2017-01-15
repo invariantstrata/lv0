@@ -1,0 +1,21 @@
+Uncategorized
+
+5!^10x53(variation)
+   var=[5~62] break
+    h("%20")
+   pause
+
+   build sin p(6)
+   port zero /%20/%20.mid
+   tr repeat r # times r repeat
+   f.generate()
+
+   #B
+
+   scr upload video=NTSC
+   cond(PAL) do still
+
+   number (5! + %20)
+end var out(%20)
+
+stop

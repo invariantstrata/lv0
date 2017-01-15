@@ -1,0 +1,9 @@
+port entrance
+
+   open %20 ports
+   Hz rate (
+   [(384/sqrt(-%20))log366^(5!)x10^3]
+    )
+
+   open 2 ch4
+   root end()

@@ -1,0 +1,9 @@
+# HTML port feedback
+
+   fb fr(340~550)
+   var bet n1;n2;n4
+   
+ # if fr > 550
+
+   fb fr(550~%20)
+   var bet n%20
