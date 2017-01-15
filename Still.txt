@@ -1,0 +1,15 @@
+# define still for feed < k rate
+
+stat=feed (
+
+	run feed
+	get stat=k rate
+
+	if_feed<k.rate do (
+
+	still
+	)
+
+	still(force k.rate>feed)
+
+)
